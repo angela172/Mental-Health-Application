@@ -8,3 +8,4 @@ python-dotenv==1.0.1
 langchain-groq==0.1.4
 scipy==1.13.1
 ffmpeg-python==0.2.0
+
